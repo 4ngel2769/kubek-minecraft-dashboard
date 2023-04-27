@@ -1,28 +1,39 @@
-# kubek-minecraft-dashboard
-Kubek - Web Minecraft servers dashboard, written on Node.js using MDBootstrap
+<h1 align="center">
+    <img src="www/assets/icon.png" width="100" alt="Kubek Logo">
+    <br>
+    <p>Kubek</p>
+</h1>
+<h3 align="center">Web Minecraft server dashboard, written on Node.js using MDBootstrap</h3>
+<div align="center">
+    <a href="#features">Features</a>
+    •
+    <a href="#installation">Installation</a>
+</div>
 
-**Features:**
+## Kubek - Web Minecraft servers dashboard, written on Node.js using MDBootstrap
+
+# Features:
 - Linux and Windows supported
 - Pure Web UI with dark and light themes
 - Plugins and mods manager
 - Real-time console
-- Server.properties editor
+- `server.properties` editor
 - FTP server included
 - Web file manager
 - Users and roles system
 - Integration with Telegram bots
 
-**Tested and working cores**:
-- All popular PaperMC versions (all PaperMC forks (Tuinity, Airplane, Purpur, etc.) more likely will be work too)
+## Tested and working cores:
+- All popular PaperMC versions and all PaperMC forks (Tuinity, Airplane, Purpur, etc.) will likely work too
 - Spigot 1.8 - 1.18.2 (not included all versions)
 - Forge 1.12.2 - 1.19.2 (not included all versions)
 - Velocity 1.19.3
 
-**Not tested/not working properly/not supported cores:**
+## Not tested/not working properly/not supported cores:
 - BungeeCord (_working with problems_)
 - TCauldron/Magma and other hybrid cores (_not tested_)
 
-**Natively supported cores:**
+## Natively supported cores:
 - PaperMC
 - Spigot
 - CraftBukkit
