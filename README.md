@@ -5,12 +5,11 @@
 </h1>
 <h3 align="center">Web Minecraft server dashboard, written on Node.js using MDBootstrap</h3>
 <div align="center">
+    <br>
     <a href="#features">Features</a>
     •
     <a href="#installation">Installation</a>
 </div>
-
-## Kubek - Web Minecraft servers dashboard, written on Node.js using MDBootstrap
 
 # Features:
 - Linux and Windows supported
